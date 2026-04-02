@@ -6,7 +6,7 @@ A Chrome extension that automates the **“Post a Truck”** process on Amazon R
 
 ## 🎬 Demo
 
-[Watch Demo](https://youtube.com/your-video](https://www.youtube.com/watch?v=QAJBOvElFkE)
+[Watch Demo](https://www.youtube.com/watch?v=QAJBOvElFkE)
 
 ![Preview](assets/demo.gif)
 
