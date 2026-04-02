@@ -1,6 +1,4 @@
-# 🚚 Amazon Relay Auto Booker (Chrome Extension)
-
-A Chrome extension that automates the **“Post a Truck”** process on Amazon Relay, significantly reducing booking time and improving load acquisition speed.
+# 🚚 Amazon Relay Cross-Account Auto Booker
 
 ---
 
@@ -12,52 +10,67 @@ A Chrome extension that automates the **“Post a Truck”** process on Amazon R
 
 ---
 
-## ⚡ Key Features
+## ⚡ Core Idea (Main Feature)
 
-* 🚀 **Ultra-fast automation** – reduces booking time from ~10 seconds to ~2 seconds
-* 🤖 **Automated form filling & submission**
-* 🎯 **Competitive advantage** – helps secure high-priority (A+) loads faster
-* 🧠 **Smart workflow optimization** for dispatch operations
-* 💻 Lightweight and easy-to-use Chrome extension
+This extension enables **cross-account load booking between different Amazon Relay company profiles**.
+
+👉 Example:
+
+* **Company A (Profile 1)** → Performance Score: **A**
+* **Company B (Profile 2)** → Performance Score: **A+**
+
+💡 Normally:
+
+* Lower-rated profiles cannot effectively compete for high-priority loads
+
+🚀 With this extension:
+
+* You can **use a higher-rated company profile (A+)**
+* To instantly **book loads from another company’s board (A-level)**
+* And secure them in ~2 seconds
+
+👉 This creates a **major competitive advantage** in load booking
 
 ---
 
-## 🧩 How It Works
+## 🔥 Key Features
 
-The extension interacts directly with the Amazon Relay interface to:
-
-1. Detect available loads
-2. Automatically trigger the “Post a Truck” process
-3. Fill required fields instantly
-4. Submit requests faster than manual input
-
-This minimizes delays and increases the probability of securing high-value loads.
+* ⚡ **Cross-account automation** (core innovation)
+* 🚀 Reduces booking time from **~10 seconds → ~2 seconds**
+* 🤖 Automates the **“Post a Truck”** workflow
+* 🎯 Enables access to **higher-priority loads**
+* 💼 Improves dispatch efficiency and speed
 
 ---
 
-## 📸 Demo (optional)
+## 🧠 How It Works
 
-*Add screenshots or a short video here showing the extension in action*
+The extension connects workflow between **two Amazon Relay company profiles**:
+
+1. Monitor loads from one company profile
+2. Instantly trigger **Post a Truck** from another (higher-rated) profile
+3. Auto-fill and submit faster than manual interaction
+4. Secure loads before competitors
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **JavaScript**
-* **HTML / CSS**
-* **Chrome Extensions API**
+* JavaScript
+* HTML / CSS
+* Chrome Extensions API
 
 ---
 
 ## 📦 Installation
 
 1. Download or clone this repository
-2. Open Chrome and go to:
+2. Open Chrome:
 
    ```
    chrome://extensions/
    ```
-3. Enable **Developer mode** (top right)
+3. Enable **Developer mode**
 4. Click **Load unpacked**
 5. Select the project folder
 
@@ -73,21 +86,20 @@ Use responsibly and ensure compliance with Amazon Relay’s terms of service.
 ## 👨‍💻 Author
 
 **Mukhammadiusuf Sirozhiddinov**
-
-* 📍 Osh, Kyrgyzstan
-* 📧 [sirozhiddinovmukhammadiusuf@gmail.com](mailto:sirozhiddinovmukhammadiusuf@gmail.com)
+📍 Osh, Kyrgyzstan
+📧 [sirozhiddinovmukhammadiusuf@gmail.com](mailto:sirozhiddinovmukhammadiusuf@gmail.com)
 
 ---
 
 ## ⭐ Future Improvements
 
-* Add UI dashboard for customization
-* Improve detection logic for new loads
-* Add performance analytics
-* Error handling & logging system
+* Multi-account management dashboard
+* Smart load filtering
+* Performance tracking tools
+* Improved automation logic
 
 ---
 
 ## 📄 License
 
-This project is open-source and available under the MIT License.
+MIT License
