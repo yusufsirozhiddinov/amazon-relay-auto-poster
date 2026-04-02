@@ -4,6 +4,12 @@ A Chrome extension that automates the **“Post a Truck”** process on Amazon R
 
 ---
 
+## 🎬 Demo
+
+[Watch Demo](https://youtube.com/your-video)
+
+---
+
 ## ⚡ Key Features
 
 * 🚀 **Ultra-fast automation** – reduces booking time from ~10 seconds to ~2 seconds
