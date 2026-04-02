@@ -26,7 +26,7 @@ This extension enables **cross-account load booking between different Amazon Rel
 🚀 With this extension:
 
 * You can **use a higher-rated company profile (A+)**
-* To instantly **book loads from another company’s board (A-level)**
+* To instantly **book loads for another company’s board (A-level)**
 * And secure them in ~2 seconds
 
 👉 This creates a **major competitive advantage** in load booking
