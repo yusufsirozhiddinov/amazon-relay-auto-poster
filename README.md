@@ -57,7 +57,7 @@ This extension enables **cross-account load booking between different Amazon Rel
 The extension connects workflow between **two Amazon Relay company profiles**:
 
 1. Monitor loads from one company profile
-2. Instantly trigger **Post a Truck** from another (higher-rated) profile
+2. Instantly trigger **Post a Truck** from another (lower-rated) profile
 3. Auto-fill and submit faster than manual interaction
 4. Secure loads before competitors
 
