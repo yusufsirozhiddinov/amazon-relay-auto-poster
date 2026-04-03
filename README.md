@@ -21,7 +21,7 @@ This extension enables **cross-account load booking between different Amazon Rel
 
 💡 Normally:
 
-* Lower-rated profiles cannot effectively compete for high-priority loads
+* Lower-rated profiles cannot book high-priority loads
 
 🚀 With this extension:
 
