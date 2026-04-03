@@ -1,4 +1,4 @@
-# 🚚 Amazon Relay Cross-Account Auto Booker
+# 🚚 Amazon Relay Cross-Company Auto Booker
 
 ---
 
